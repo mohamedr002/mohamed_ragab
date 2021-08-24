@@ -26,7 +26,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: In *Wowchemy Conference*
+publication: IEEE Transactions on Neural Networks and Learning Systems
 tags: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
