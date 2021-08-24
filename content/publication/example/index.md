@@ -11,7 +11,7 @@ authors:
   - Min Wu
   - Chee-Keong Kwoh
   - Xiaoli Li
-publication_short: In IEEE Transactions on Neural Networks and Learning Systems
+publication_short: In IEEE TNNLS
 abstract: ""
 draft: false
 featured: false
