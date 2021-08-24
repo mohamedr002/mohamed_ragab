@@ -15,7 +15,7 @@ authors:
 publication: "IEEE Transactions on Industrial Informatics (IF: 10.215)"
 publication_short: IEEE Transactions on Industrial Informatics
 draft: false
-featured: false
+featured: true
 tags:
   - example
 categories:
