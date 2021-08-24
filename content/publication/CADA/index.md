@@ -4,7 +4,8 @@ title: Contrastive Adversarial Domain Adaptation for Machine Remaining Useful
 publication_types:
   - "2"
 authors:
-  - Mohamed Ragab Zhenghua Chen
+  - Mohamed Ragab
+  - Zhenghua Chen
   - Min Wu
   - Foo
   - Chuan Sheng

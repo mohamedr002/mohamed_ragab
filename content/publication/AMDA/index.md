@@ -5,11 +5,10 @@ publication_types:
   - "2"
 authors:
   - Mohamed Ragab
-  - Emadeldeen Eldele
   - Zhenghua Chen
   - Min Wu
   - Chee-Keong Kwoh
-  - Xiaoli Li
+  - Xiaoli L
 publication_short: In IEEE TIM
 abstract: ""
 draft: false
@@ -17,7 +16,7 @@ featured: false
 projects:
   - example
 slides: example
-url_pdf: "https://arxiv.org/abs/2007.09868"
+url_pdf: https://arxiv.org/abs/2007.09868
 summary: ""
 url_dataset: ""
 url_project: ""
