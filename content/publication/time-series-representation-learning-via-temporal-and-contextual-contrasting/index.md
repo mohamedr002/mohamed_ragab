@@ -15,6 +15,9 @@ publication: International Joint Conference of Artificial Intelligence, IJCAI, 2
 publication_short: In International Joint Conference of Artificial Intelligence, IJCAI, 2021
 draft: false
 featured: false
+projects:
+  - example
+slides: example
 image:
   filename: ""
   focal_point: Smart
