@@ -11,7 +11,7 @@ authors:
   - Min Wu
   - Chee-Keong Kwoh
   - Xiaoli Li
-publication_short: In *ICW*
+publication_short: In IEEE Transactions on Neural Networks and Learning Systems
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
