@@ -1,6 +1,6 @@
 ---
 title: Time Series Representation Learning via Temporal and Contextual Contrasting
-subtitle: ""
+subtitle: International Joint Conference of Artificial Intelligence, IJCAI, 2021
 publication_types:
   - "1"
 authors:
