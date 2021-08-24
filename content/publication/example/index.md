@@ -24,9 +24,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 doi: ""
 publication: In *Wowchemy Conference*
 tags: []
