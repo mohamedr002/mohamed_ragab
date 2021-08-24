@@ -1,12 +1,14 @@
 ---
 title: "Mohamed Ragab "
 role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Transfer Learning, Domain Adaptation, Machine
+  Condition Monitring,  mobile computing and programmable matter.
 interests:
   - Deep Learning
   - Transfer Learning
+  - Domain Adaptation
   - Time-series data
+  - Predictive Maintenance
 social:
   - icon: envelope
     icon_pack: fas
