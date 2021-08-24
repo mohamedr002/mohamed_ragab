@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Ragab "
-role: "PhD Student Nanyang Technological University "
-avatar_filename: photi.jpg
+role: PhD Student
+avatar_filename: avatar.jpg
 bio: "My research interests include Transfer Learning, Domain Adaptation,
   Machine Condition Monitoring, "
 interests:
