@@ -16,8 +16,9 @@ publication_short: TS_TCC
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: ts_tcc.png
   focal_point: Smart
   preview_only: false
+  caption: " Overall architecture of proposed TS-TCC model."
 date: 2021-08-24T07:29:41.915Z
 ---
