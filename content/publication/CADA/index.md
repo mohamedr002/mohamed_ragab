@@ -20,8 +20,7 @@ tags:
   - example
 categories:
   - example
-projects:
-  - example
+projects: []
 slides: example
 image:
   filename: ""
