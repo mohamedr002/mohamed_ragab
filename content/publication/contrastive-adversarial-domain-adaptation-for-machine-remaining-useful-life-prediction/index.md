@@ -15,8 +15,15 @@ publication: "IEEE Transactions on Industrial Informatics (IF: 10.215)"
 publication_short: IEEE Transactions on Industrial Informatics
 draft: false
 featured: false
+tags:
+  - example
+categories:
+  - example
+projects:
+  - example
+slides: example
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2021-08-24T08:15:12.697Z
