@@ -14,7 +14,7 @@ authors:
 publication: International Joint Conference of Artificial Intelligence, IJCAI, 2021
 publication_short: In International Joint Conference of Artificial Intelligence, IJCAI, 2021
 draft: false
-featured: true
+featured: false
 image:
   filename: ts_tcc.png
   focal_point: Smart
