@@ -26,9 +26,7 @@ projects:
   - example
 slides: example
 url_pdf: ""
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
