@@ -19,7 +19,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-  caption: ""
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
 date: 2021-08-24T07:29:41.915Z
 ---
 {{% callout note %}}
