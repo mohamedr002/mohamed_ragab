@@ -16,10 +16,10 @@ publication_short: In International Joint Conference of Artificial Intelligence,
 draft: false
 featured: false
 image:
-  filename: ts_tcc.png
+  filename: ""
   focal_point: Smart
   preview_only: false
-  caption: " Overall architecture of proposed TS-TCC model."
+  caption: ""
 date: 2021-08-24T07:29:41.915Z
 ---
 {{% callout note %}}
