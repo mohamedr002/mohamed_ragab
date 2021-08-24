@@ -4,9 +4,9 @@ role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Transfer Learning
+  - Time-series data
 social:
   - icon: envelope
     icon_pack: fas
