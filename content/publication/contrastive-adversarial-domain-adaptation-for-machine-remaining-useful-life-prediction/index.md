@@ -2,7 +2,7 @@
 title: Contrastive Adversarial Domain Adaptation for Machine Remaining Useful
   Life Prediction
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Mohamed Ragab Zhenghua Chen
   - Min Wu
