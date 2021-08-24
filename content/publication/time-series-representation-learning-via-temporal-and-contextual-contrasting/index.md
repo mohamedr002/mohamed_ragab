@@ -12,7 +12,7 @@ authors:
   - Xiaoli Li
   - Cuntai Guan
 publication: International Joint Conference of Artificial Intelligence, IJCAI, 2021
-publication_short: TS_TCC
+publication_short: In International Joint Conference of Artificial Intelligence, IJCAI, 2021
 draft: false
 featured: true
 image:
