@@ -18,7 +18,7 @@ featured: false
 projects:
   - example
 slides: example
-url_pdf: ""
+url_pdf: "C:\Users\mohamedr002\OneDrive - Nanyang Technological University\Formal Documents\CV\Personal_website\mohamed_ragab\content\publication\SLARDA"
 summary: ""
 url_dataset: ""
 url_project: ""
