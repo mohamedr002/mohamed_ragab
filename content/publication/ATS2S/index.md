@@ -4,8 +4,12 @@ title: Attention Sequence to Sequence Model for Machine Remaining Useful Life
 publication_types:
   - "2"
 authors:
-  - Mohamed Ragab  Zhenghua Chen
-  - Min Wu  Chee-Keong  Kwoh  Ruqiang Yan  Xiaoli Li
+  - Mohamed Ragab
+  - Emadeldeen Eldele
+  - Zhenghua Chen
+  - Min Wu
+  - Chee-Keong Kwoh
+  - Xiaoli Li
 publication: "Neurocomputing, Elsevier "
 publication_short: "Neurocomputing, Elsevier "
 draft: false
