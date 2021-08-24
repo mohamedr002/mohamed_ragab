@@ -1,8 +1,9 @@
 ---
 title: "Mohamed Ragab "
-role: Professor of Artificial Intelligence
-bio: My research interests include Transfer Learning, Domain Adaptation, Machine
-  Condition Monitring,  mobile computing and programmable matter.
+role: "PhD Student Nanyang Technological University "
+avatar_filename: photi.jpg
+bio: "My research interests include Transfer Learning, Domain Adaptation,
+  Machine Condition Monitoring, "
 interests:
   - Deep Learning
   - Transfer Learning
