@@ -1,6 +1,6 @@
 ---
 title: Time Series Representation Learning via Temporal and Contextual Contrasting
-subtitle: International Joint Conference of Artificial Intelligence, IJCAI, 2021
+subtitle: ""
 publication_types:
   - "1"
 authors:
@@ -11,6 +11,7 @@ authors:
   - Chee-Keong Kwoh
   - Xiaoli Li
   - Cuntai Guan
+publication: International Joint Conference of Artificial Intelligence, IJCAI, 2021
 publication_short: TS_TCC
 draft: false
 featured: true
