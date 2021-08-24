@@ -29,7 +29,7 @@ doi: ""
 publication: IEEE Transactions on Neural Networks and Learning Systems
 tags: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
 date: 2021-08-24T07:45:54.436Z
