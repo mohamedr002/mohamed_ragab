@@ -15,6 +15,10 @@ publication: International Joint Conference of Artificial Intelligence, IJCAI, 2
 publication_short: In International Joint Conference of Artificial Intelligence, IJCAI, 2021
 draft: false
 featured: false
+tags:
+  - exampe
+categories:
+  - example
 projects:
   - example
 slides: example
