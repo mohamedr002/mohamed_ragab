@@ -22,6 +22,7 @@ categories:
 projects:
   - example
 slides: example
+code: example
 image:
   filename: ""
   focal_point: Smart
@@ -31,6 +32,10 @@ date: 2021-08-24T07:29:41.915Z
 ---
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Click the *code* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
