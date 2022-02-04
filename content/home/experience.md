@@ -62,7 +62,7 @@ experience:
         
         * Assists with labs or discussion sections.
         * Attend weekly course staff meetings.
-        * Perform occasional other tasks such as mentoring student in the E-learning version of courses.
+        * Perform occasional other tasks such as mentoring student in the E-learning.
 
 design:
   columns: '2'
