@@ -32,8 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Developing end-to-end data science pipeline from data collection to machine learning model deployment for predictive maintenance tasks
-such as Anomaly detection, Fault Diagnosis, and Fault Prognosis
+        * Developing end-to-end data science pipeline from data collection to machine learning model deployment for predictive maintenance tasks such as Anomaly detection, Fault Diagnosis, and Fault Prognosis
         * Modelling
         * Deploying
         
