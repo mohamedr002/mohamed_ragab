@@ -36,15 +36,15 @@ experience:
         * Developing Advanced deep learning algorithms for time series data.
         * Develop Transfer Learning and Domain Adaptation techniques to address the challenges of real-world predictive maintenance.
         
-  - title: Assistant Lecturer 
+  - title: Assistant Lecturer
     company: Aswan University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description:         
-         Responsibilities include:
+    company_logo: astar
+    location: Singapore
+    date_start: '2018-08-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
         
         * Assist head faculty member with classroom instruction material, exams, and record keeping
         * Guide the development and training of the new graduate assistants
