@@ -42,7 +42,7 @@ education:
       year: 2014
 email: ""
 superuser: true
-highlight_name: true
+highlight_name: false
 ---
 <!--StartFragment-->
 
