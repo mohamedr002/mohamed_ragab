@@ -50,6 +50,20 @@ experience:
         * Guide the development and training of the new graduate assistants
         * Lead, supervise, and plan undergraduate laboratory experience
 
+  - title: Assistant Lecturer
+    company: Aswan University
+    company_url: ''
+    company_logo: astar
+    location: Singapore
+    date_start: '2018-08-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Assist head faculty member with classroom instruction material, exams, and record keeping
+        * Guide the development and training of the new graduate assistants
+        * Lead, supervise, and plan undergraduate laboratory experience
+
 design:
   columns: '2'
 ---
