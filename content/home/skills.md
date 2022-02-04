@@ -25,7 +25,7 @@ feature:
   name: Time Series Data Analysis
 #  description: 90%
 - icon: brain
-  icon_pack: fab
+  icon_pack: fas
   name: Deep Learning Frameworks
 
 # Uncomment to use emoji icons.
