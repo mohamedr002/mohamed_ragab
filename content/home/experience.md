@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Machine Learning Intern
+    company: ST Engineering
+    company_url: ''
+    company_logo: astar
+    location: Singapore
+    date_start: '2020-09-01'
+    date_end: '2020-12-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Anomaly detection using LSTM, CNN and Autoencoder techniques. I have provided an improved arsenal to tackle future component Predictive Maintenance projects.
+        * In advance detection of failure of various air-crafts engines using automatic feature extraction.
+
   - title: Research Scholar
     company: A*STAR
     company_url: ''
