@@ -33,17 +33,22 @@ experience:
         Responsibilities include:
         
         * Developing end-to-end data science pipeline from data collection to machine learning model deployment for predictive maintenance tasks such as Anomaly detection, Fault Diagnosis, and Fault Prognosis
-        * Modelling
-        * Deploying
+        * Developing Advanced deep learning algorithms for time series data.
+        * Develop Transfer Learning and Domain Adaptation techniques to address the challenges of real-world predictive maintenance.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Assistant Lecturer 
+    company: Aswan University
     company_url: ''
     company_logo: org-x
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description:         
+         Responsibilities include:
+        
+        * Assist head faculty member with classroom instruction material, exams, and record keeping
+        * Guide the development and training of the new graduate assistants
+        * Lead, supervise, and plan undergraduate laboratory experience
 
 design:
   columns: '2'
