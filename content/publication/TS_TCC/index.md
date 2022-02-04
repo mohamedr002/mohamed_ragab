@@ -40,7 +40,7 @@ categories:
 projects:
   - example
 slides: example
-code: example
+Code: example
 image:
   filename: ts_tcc.png
   focal_point: Smart

@@ -19,10 +19,11 @@ feature:
 - icon: python
   icon_pack: fab
   name: Python
-  description: 90%
+#  description: 90%
 - icon: chart-line
   icon_pack: fas
   name: Time Series Data Analysis
+#  description: 90%
 
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
