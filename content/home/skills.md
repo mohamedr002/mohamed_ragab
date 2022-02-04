@@ -24,7 +24,7 @@ feature:
   icon_pack: fas
   name: Time Series Data Analysis
 #  description: 90%
-- icon: fa-brain
+- icon: brain
   icon_pack: fab
   name: Deep Learning Frameworks
 
