@@ -26,13 +26,14 @@ experience:
     company: A*STAR
     company_url: ''
     company_logo: astar
-    location: California
-    date_start: '2021-01-01'
+    location: Singapore
+    date_start: '2018-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Developing end-to-end data science pipeline from data collection to machine learning model deployment for predictive maintenance tasks
+such as Anomaly detection, Fault Diagnosis, and Fault Prognosis
         * Modelling
         * Deploying
         
