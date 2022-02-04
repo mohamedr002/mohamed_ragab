@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: Institute for Infocomm Research (I2R), A*STAR
+    company: Institute for Infocomm Research (I2R), ASTAR
     company_url: ''
     company_logo: org-gc
     location: Singapore
