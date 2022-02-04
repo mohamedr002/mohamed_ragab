@@ -32,8 +32,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Developing end-to-end data science pipeline from data collection to machine learning model deployment for predictive maintenance tasks such as Anomaly detection, Fault Diagnosis, and Fault Prognosis
-        * Developing Advanced deep learning algorithms for time series data.
+        * Implement end-to-end data science pipeline from data collection to machine learning model deployment for predictive maintenance tasks such as Anomaly detection, Fault Diagnosis, and Fault Prognosis
+        * Design Advanced deep learning algorithms for time series data.
         * Develop Transfer Learning and Domain Adaptation techniques to address the challenges of real-world predictive maintenance.
         
   - title: Assistant Lecturer
