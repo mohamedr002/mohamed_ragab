@@ -22,47 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
-    company: Institute for Infocomm Research (I2R), ASTAR
+  - title: CEO
+    company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: Singapore
-    date_start: '2018-08-01'
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Developing end-to-end data science pipeline from data collection to machine learning model deployment for predictive maintenance tasks
-          such as Anomaly detection, Fault Diagnosis, and Fault Prognosis
-        * Developing Advanced deep learning algorithms for time series data
-        * Develop Transfer Learning and Domain Adaptation techniques to address the challenges of real-world predictive maintenance.
-
+        * Analysing
+        * Modelling
+        * Deploying
         
-  - title: Assistant Lecturer
-    company: Aswan University
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
     company_logo: org-x
-    location: Egypt
-    date_start: '2017-12-01'
-    date_end: '2028-07-31'
-    description: |2-
-        Responsibilities include:
-       * Assist head faculty member with classroom instruction material, exams, and record keeping.
-       * Guide the development and training of the new graduate assistants.
-       * Lead, supervise, and plan undergraduate laboratory experience.
-
-
-  - title: Teaching Assistant 
-    company: Aswan University
-    company_url: ''
-    company_logo: org-x
-    location: Egypt
-    date_start: '2017-12-01'
-    date_end: '2028-07-31'
-    description: |2-
-     Responsibilities include:
-    * Assist with labs or discussion sections, hold office hours, do grading, attend weekly course
-      staff meetings, and do occasional other tasks such as mentoring student in the E-learning version of courses.
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
