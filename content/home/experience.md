@@ -45,8 +45,11 @@ such as Anomaly detection, Fault Diagnosis, and Fault Prognosis
     location: Egypt
     date_start: '2017-12-01'
     date_end: '2028-07-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    description: |2-
+        Responsibilities include:
+       * Assist head faculty member with classroom instruction material, exams, and record keeping.
+       * Guide the development and training of the new graduate assistants.
+       * Lead, supervise, and plan undergraduate laboratory experience.
 design:
   columns: '2'
 ---
