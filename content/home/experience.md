@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Developing end-to-end data science pipeline from data collection to machine learning model deployment for predictive maintenance tasks
-such as Anomaly detection, Fault Diagnosis, and Fault Prognosis
+          such as Anomaly detection, Fault Diagnosis, and Fault Prognosis
         * Developing Advanced deep learning algorithms for time series data
         * Develop Transfer Learning and Domain Adaptation techniques to address the challenges of real-world predictive maintenance.
 
@@ -50,6 +50,19 @@ such as Anomaly detection, Fault Diagnosis, and Fault Prognosis
        * Assist head faculty member with classroom instruction material, exams, and record keeping.
        * Guide the development and training of the new graduate assistants.
        * Lead, supervise, and plan undergraduate laboratory experience.
+
+
+  - title: Teaching Assistant 
+    company: Aswan University
+    company_url: ''
+    company_logo: org-x
+    location: Egypt
+    date_start: '2017-12-01'
+    date_end: '2028-07-31'
+    description: |2-
+     Responsibilities include:
+    * Assist with labs or discussion sections, hold office hours, do grading, attend weekly course
+      staff meetings, and do occasional other tasks such as mentoring student in the E-learning version of courses.
 design:
   columns: '2'
 ---
