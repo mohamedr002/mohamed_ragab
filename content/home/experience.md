@@ -25,7 +25,7 @@ experience:
   - title: Machine Learning Intern
     company: ST Engineering
     company_url: ''
-    company_logo: astar
+    company_logo: st
     location: Singapore
     date_start: '2020-09-01'
     date_end: '2020-12-01'
