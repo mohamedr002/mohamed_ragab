@@ -30,7 +30,6 @@ experience:
     date_start: '2020-09-01'
     date_end: '2020-12-01'
     description: |2-
-        Responsibilities include:
         
         * Anomaly detection using LSTM, CNN and Autoencoder techniques. I have provided an improved arsenal to tackle future component Predictive Maintenance projects.
         * In advance detection of failure of various air-crafts engines using automatic feature extraction.
@@ -43,7 +42,6 @@ experience:
     date_start: '2018-08-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
         * Implement end-to-end data science pipeline from data collection to machine learning model deployment for predictive maintenance tasks such as Anomaly detection, Fault Diagnosis, and Fault Prognosis
         * Design Advanced deep learning algorithms for time series data.
@@ -57,7 +55,6 @@ experience:
     date_start: '2017-12-01'
     date_end: '2018-07-01'
     description: |2-
-        Responsibilities include:
         
         * Assist head faculty member with classroom instruction material, exams, and record keeping
         * Guide the development and training of the new graduate assistants
@@ -71,7 +68,6 @@ experience:
     date_start: '2015-02-15'
     date_end: '2017-11-21'
     description: |2-
-        Responsibilities include:
         
         * Assists with labs or discussion sections.
         * Attend weekly course staff meetings.
