@@ -22,27 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: Institute for Infocomm Research (I2R), A*STAR
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Singapore
+    date_start: '2018-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developing end-to-end data science pipeline from data collection to machine learning model deployment for predictive maintenance tasks
+such as Anomaly detection, Fault Diagnosis, and Fault Prognosis
+        * Developing Advanced deep learning algorithms for time series data
+        * Develop Transfer Learning and Domain Adaptation techniques to address the challenges of real-world predictive maintenance.
+
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Assistant Lecturer
+    company: Aswan University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Egypt
+    date_start: '2017-12-01'
+    date_end: '2028-07-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
