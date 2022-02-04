@@ -63,6 +63,4 @@ experience:
      Responsibilities include:
     * Assist with labs or discussion sections, hold office hours, do grading, attend weekly course
       staff meetings, and do occasional other tasks such as mentoring student in the E-learning version of courses.
-design:
-  columns: '2'
----
+
