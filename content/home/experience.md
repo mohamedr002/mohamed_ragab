@@ -39,7 +39,7 @@ experience:
   - title: Assistant Lecturer
     company: Aswan University
     company_url: ''
-    company_logo: astar
+    company_logo: aswan
     location: Singapore
     date_start: '2017-12-01'
     date_end: '2018-07-01'
@@ -53,7 +53,7 @@ experience:
   - title: Teaching Assistant 
     company: Aswan University
     company_url: ''
-    company_logo: astar
+    company_logo: aswan
     location: Singapore
     date_start: '2015-02-15'
     date_end: '2017-11-21'
