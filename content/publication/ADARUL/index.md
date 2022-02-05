@@ -1,15 +1,15 @@
 ---
-title: Adversarial Multiple-Target Domain Adaptation for Fault Classification
+title: Adversarial Transfer Learning for Machine Remaining Useful Life Prediction
 subtitle: IEEE Transactions on Instrumentation and Measurement
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Mohamed Ragab
   - Zhenghua Chen
   - Min Wu
   - Chee-Keong Kwoh
   - Xiaoli L
-publication_short: In IEEE TIM
+publication_short: In IEEE ICPHM 2020
 abstract: ""
 draft: false
 featured: false
@@ -24,13 +24,13 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: IEEE Transactions on Instrumentation and Measurement
+publication: IEEE International Conference on Prognostics and Health Management
 tags: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2021-08-24T07:45:54.436Z
+date: 2020-06-24T07:45:54.436Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
