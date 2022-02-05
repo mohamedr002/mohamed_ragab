@@ -22,7 +22,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: IEEE Transactions on Neural Networks and Learning Systems
+publication: Provable and Practical Security
 tags: []
 image:
   caption: ""
