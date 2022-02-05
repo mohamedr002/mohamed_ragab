@@ -1,5 +1,5 @@
 ---
-title: Adversarial Multiple-Target Domain Adaptation for Fault Classification
+title: Conditional Contrastive Domain Generalization for Fault Diagnosis
 subtitle: IEEE Transactions on Instrumentation and Measurement
 publication_types:
   - "2"
@@ -18,7 +18,7 @@ featured: false
 projects:
   - example
 slides: example
-url_pdf: https://arxiv.org/abs/2007.09868
+url_pdf: https://personal.ntu.edu.sg/xlli/publication/fault.pdf
 summary: ""
 url_dataset: ""
 url_project: ""

@@ -14,7 +14,7 @@ subtitle: "[All news>>](/news)"
 
 
 ---
-**[Feb-2021]** Our paper entitled [Conditional Contrastive Domain Generalization for Fault Diagnosis](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
+**[Feb-2021]** Our paper entitled [Conditional Contrastive Domain Generalization for Fault Diagnosis](/publication/CCDG/) has been accepted in Neurocomputing, Elsevier.
 
 **[Jan-2022]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
 
