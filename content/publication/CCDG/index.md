@@ -10,8 +10,8 @@ authors:
   - Emadeldeen Eldele
   - Min Wu
   - Chee-Keong Kwoh
-  - Xiaoli L
-publication_short: In IEEE TIM
+  - Xiaoli Li
+publication_short: In IEEE Transactions on Instrumentation and Measurement
 abstract: ""
 draft: false
 featured: false
@@ -32,7 +32,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2021-08-24T07:45:54.436Z
+date: 2022-02-24T07:45:54.436Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
