@@ -12,8 +12,16 @@ weight: 20
 title: Recent News
 subtitle: "[All news>>](/news)"
 
+design:
+  columns = "2"
 ---
-**[13/04/20]** New paper on [Stochastic Unit Commitment in Low-Inertia Grids](/publication/2020jpaturet/) published on IEEE Transactions on Power Systems.
+**[Sep-2021]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
+
+**[Sep-2021]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
+
+**[Sep-2021]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
+
+**[Sep-2021]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
 
 **[12/02/20]** Seminar presentation on [Data-driven decentralised control design in Active Distribution Networks](/talk/2020-feb-ucy/) at [UCY](http://ucy.ac.cy).
 
