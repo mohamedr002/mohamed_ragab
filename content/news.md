@@ -24,21 +24,23 @@ subtitle: "[All news>>](/news)"
 
 **[May-2021]** Our paper entitled [Time-Series Representation Learning via Temporal and Contextual Contrasting](/publication/TS_TCC/) has been accepted in has been accepted in **International Joint Conference on Artificial Intelligence (IJCAI-21)**  
 
-
 **[Apr-2021]** Our paper entitled [Contrastive Adversarial Knowledge Distillation for Deep Model Compression in Time-Series Regression Tasks](/publication/ATS2S/) has been accepted in **Neurocomputing, Elsevier**.
 
 **[Jan-2021]** Our paper entitled [Robust Domain-free Domain Generalization with Class-aware alignment](/publication/DFDG/) has been accepted in  **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**.
 
 **[Oct-2020]** Our paper entitled [Contrastive Adversarial Domain Adaptation for Machine Remaining Useful Life Prediction](/publication/CADA/) has been accepted in **IEEE Transactions on Industrial Informatics \[IF:9.112\]**
 
-**[Sep-2020]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
+**[Sep-2020]**  Joined **ST Engineering Aerospace** as a Machine Learning Intern. 
 
-**[Sep-2020]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
+**[Sep-2020]**  Joined **Egypt Scholars Inc** as a volunteer member at labs and communities. 
 
-**[Sep-2020]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
+**[Sep-2020]** Our paper entitled [Secure Transfer Learning for Machine Fault Diagnosis under Different Operating Condition](/publication/ATS2S/) has been accepted in **International Conference on Provable and Practical Security (PROVSEC 2020)**.
 
-**[June-2020]** Seminar presentation on [Data-driven decentralised control design in Active Distribution Networks](/talk/2020-feb-ucy/) at [UCY](http://ucy.ac.cy).
+**[Jul-2020]** Our paper entitled [Adversarial Multiple-Target Domain Adaptation for Fault Classification](/publication/AMDA/) has been accepted in **International Conference on Provable and Practical Security (PROVSEC 2020)**.
 
-**[Jan-2020]** New paper on [ A Robust Coordinated Expansion Planning Model For Wind Farm-Integrated Power Systems With Flexibility Sources Using Affine Policies](/publication/2020jdehghan/) published on IEEE Systems Journal.
+**[Jun-2020]** Our paper entitled [Adversarial Transfer Learning for Machine Remaining Useful Life Prediction](/publication/ADARUL/) has won, **Finalist Academic Paper Award** at **IEEE International Conference on Prognostics and Health Management (ICPHM) 2020**.
 
-**[Aug-2018]** New paper on [ A Robust Coordinated Expansion Planning Model For Wind Farm-Integrated Power Systems With Flexibility Sources Using Affine Policies](/publication/2020jdehghan/) published on IEEE Systems Journal.
+**[Jan-2020]** Successfully passed my PhD Qualifying Exam 
+
+
+**[Aug-2018]** Joined as PhD Student in Computer Science and Engineering at  [Nanyang Technological University]()
