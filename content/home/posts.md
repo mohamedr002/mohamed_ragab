@@ -12,8 +12,7 @@ weight: 20
 title: Recent News
 subtitle: "[All news>>](/news)"
 
-design:
-  columns = "2"
+
 ---
 **[Sep-2021]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
 
