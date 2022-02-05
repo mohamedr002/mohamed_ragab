@@ -12,15 +12,6 @@ weight: 20
 title: Recent News
 subtitle: "[All news>>](/news)"
 
-
-design:
-   columns: '1'
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 2
 ---
 **[13/04/20]** New paper on [Stochastic Unit Commitment in Low-Inertia Grids](/publication/2020jpaturet/) published on IEEE Transactions on Power Systems.
 **[12/02/20]** Seminar presentation on [Data-driven decentralised control design in Active Distribution Networks](/talk/2020-feb-ucy/) at [UCY](http://ucy.ac.cy).
