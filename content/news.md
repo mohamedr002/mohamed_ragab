@@ -14,19 +14,22 @@ subtitle: "[All news>>](/news)"
 
 
 ---
-**[Feb-2021]** Our paper entitled [Conditional Contrastive Domain Generalization for Fault Diagnosis](/publication/CCDG/) has been accepted in Neurocomputing, Elsevier.
+**[Feb-2021]** Our paper entitled [Conditional Contrastive Domain Generalization for Fault Diagnosis](/publication/CCDG/) has been accepted in **Neurocomputing, Elsevier**.
 
-**[Jan-2022]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
+**[Jan-2022]** Our paper entitled [DiagNet: Machine Fault Diagnosis Using Federated Transfer Learning in Low Data Regimes](/publication/ATS2S/) has been accepted in **FL-AAAI 2022**.
 
-**[Sep-2021]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
+**[Sep-2021]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in **Neurocomputing, Elsevier**.
 
-**[May-2021]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
+**[Jun-2021]** Nominated to Participate in **the first trilateral Global Fellows Programme “AI and Healthcare”**the first trilateral Global Fellows Programme “AI and Healthcare”, a partnership between Nanyang Technological University (NTU, Singapore), Imperial College London (UK), and Technical University of Munich (TUM, Germany).
 
-**[April-2021]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
+**[May-2021]** Our paper entitled [Time-Series Representation Learning via Temporal and Contextual Contrasting](/publication/TS_TCC/) has been accepted in has been accepted in **International Joint Conference on Artificial Intelligence (IJCAI-21)**  
 
-**[Jan-2021]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
 
-**[Oct-2020]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
+**[Apr-2021]** Our paper entitled [Contrastive Adversarial Knowledge Distillation for Deep Model Compression in Time-Series Regression Tasks](/publication/ATS2S/) has been accepted in **Neurocomputing, Elsevier**.
+
+**[Jan-2021]** Our paper entitled [Robust Domain-free Domain Generalization with Class-aware alignment](/publication/DFDG/) has been accepted in  **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**.
+
+**[Oct-2020]** Our paper entitled [Contrastive Adversarial Domain Adaptation for Machine Remaining Useful Life Prediction](/publication/CADA/) has been accepted in **IEEE Transactions on Industrial Informatics \[IF:9.112\]**
 
 **[Sep-2020]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in Neurocomputing, Elsevier.
 
