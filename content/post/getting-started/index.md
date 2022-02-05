@@ -34,11 +34,8 @@ authors:
 
 tags:
 - Mohamed Ragab
-- 开源
 
-categories:
-- Demo
-- 教程
+
 ---
 
 ## Overview

@@ -12,6 +12,7 @@ weight: 20
 title: Recent News
 subtitle: "[All news>>](/news)"
 
+design:  2
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: post
