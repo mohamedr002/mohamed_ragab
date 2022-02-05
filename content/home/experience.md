@@ -35,7 +35,7 @@ experience:
         * In advance detection of failure of various air-crafts engines using automatic feature extraction.
 
   - title: Research Scholar
-    company: A*STAR
+    company: Institute for Infocomm Research (I2R), A*STAR
     company_url: ''
     company_logo: astar
     location: Singapore
