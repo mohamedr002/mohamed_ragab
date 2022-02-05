@@ -14,7 +14,7 @@ subtitle: "[All news>>](/news)"
 
 
 ---
-**[Feb-2021]** Our paper entitled [Conditional Contrastive Domain Generalization for Fault Diagnosis](/publication/CCDG/) has been accepted in **Neurocomputing, Elsevier**.
+**[Feb-2021]** Our paper entitled [Conditional Contrastive Domain Generalization for Fault Diagnosis](/publication/CCDG/) has been accepted in **IEEE Transactions on Instrumentation and Measurement**.
 
 **[Jan-2022]** Our paper entitled [DiagNet: Machine Fault Diagnosis Using Federated Transfer Learning in Low Data Regimes](https://federated-learning.org/fl-aaai-2022/) has been accepted in **FL-AAAI 2022**.
 
