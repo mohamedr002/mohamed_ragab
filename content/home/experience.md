@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Machine Learning Intern
-    company: ST Engineering
+    company: ST Engineering Aerospace
     company_url: ''
     company_logo: st
     location: Singapore
