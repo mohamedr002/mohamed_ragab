@@ -20,7 +20,7 @@ subtitle: "[All news>>](/news)"
 
 **[Sep-2021]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in **Neurocomputing, Elsevier**.
 
-**[Jun-2021]** Nominated to Participate in **the first trilateral Global Fellows Programme “AI and Healthcare”**the first trilateral Global Fellows Programme “AI and Healthcare”, a partnership between Nanyang Technological University (NTU, Singapore), Imperial College London (UK), and Technical University of Munich (TUM, Germany).
+**[Jun-2021]** Nominated to Participate in **the first trilateral Global Fellows Programme “AI and Healthcare”**, a partnership between Nanyang Technological University (NTU, Singapore), Imperial College London (UK), and Technical University of Munich (TUM, Germany).
 
 **[May-2021]** Our paper entitled [Time-Series Representation Learning via Temporal and Contextual Contrasting](/publication/TS_TCC/) has been accepted in has been accepted in **International Joint Conference on Artificial Intelligence (IJCAI-21)**  
 
