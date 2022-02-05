@@ -38,9 +38,9 @@ subtitle: "[All news>>](/news)"
 
 **[Jul-2020]** Our paper entitled [Adversarial Multiple-Target Domain Adaptation for Fault Classification](/publication/AMDA/) has been accepted in **International Conference on Provable and Practical Security (PROVSEC 2020)**.
 
-**[Jun-2020]** Our paper entitled [Adversarial Transfer Learning for Machine Remaining Useful Life Prediction](/publication/ADARUL/) has won, **Finalist Academic Paper Award** at **IEEE International Conference on Prognostics and Health Management (ICPHM) 2020**.
+**[Jun-2020]** Our paper entitled [Adversarial Transfer Learning for Machine Remaining Useful Life Prediction](/publication/ADARUL/) has won, [Finalist Academic Paper Award](https://ntu.edu.sg/scse/news-events/news/detail/scse-phd-student-a-star-scholar-mohamed-ragab-finalist-paper-award-at-the-12th-ieee-international-conference-on-prognostics-and-health-management-(icphm2020)) at **IEEE International Conference on Prognostics and Health Management (ICPHM) 2020**.
 
 **[Jan-2020]** Successfully passed my PhD Qualifying Exam 
 
 
-**[Aug-2018]** Joined as PhD Student in Computer Science and Engineering at  [Nanyang Technological University]()
+**[Aug-2018]** Joined as PhD Student in Computer Science and Engineering at  [Nanyang Technological University](https://www.ntu.edu.sg/)
