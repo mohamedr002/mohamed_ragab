@@ -13,13 +13,13 @@ title: Awards
 
 
 ---
-**[Jul-2020]**  [Finalist Paper Award at (ICPHM2020)](https://www.ntu.edu.sg/scse/news-events/news/detail/scse-phd-student-a-star-scholar-mohamed-ragab-finalist-paper-award-at-the-12th-ieee-international-conference-on-prognostics-and-health-management-(icphm2020)).
+**[Jul-2020]** [Finalist Paper Award at (ICPHM2020)](https://www.ntu.edu.sg/scse/news-events/news/detail/scse-phd-student-a-star-scholar-mohamed-ragab-finalist-paper-award-at-the-12th-ieee-international-conference-on-prognostics-and-health-management-(icphm2020)).
 
-**[June-2018]** [Singapore International Graduate Award](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa).
+**[Jun-2018]** [Singapore International Graduate Award](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa).
 
-**[Dec-2017]**  Best Master's Thesis Award, Aswan University.
+**[Dec-2017]** Best Master's Thesis Award, Aswan University.
 
-**[July-2014]** Bachelor's Degree with The First-class Honours, Aswan University.
+**[Jul-2014]** Bachelor's Degree with The First-class Honours, Aswan University.
 
-**[Jan-2014]**  Exemplary Student Award, Aswan University 
+**[Jan-2014]** Exemplary Student Award, Aswan University 
 
