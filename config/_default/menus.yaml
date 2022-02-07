@@ -15,15 +15,16 @@ main:
   - name: News
     url: '#posts'
     weight: 20
+  - name: Publications
+      url: '#publications'
+      weight: 30
   - name: Projects
     url: '#projects'
     weight: 40
   - name: Talks
     url: '#talks'
     weight: 50
-  - name: Publications
-    url: '#publications'
-    weight: 30
+
   - name: Contact
     url: '#contact'
     weight: 60
