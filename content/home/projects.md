@@ -28,7 +28,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: CLTS,
+  - name: CLTS
     tag: 'CLTS'
   - name: LLD
     tag: 'LLD'
