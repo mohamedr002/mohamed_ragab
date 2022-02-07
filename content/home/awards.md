@@ -7,21 +7,19 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 15
 
 title: Recent News
-subtitle: "[All news>>](/news)"
 
 
 ---
-**[Feb-2021]** Our paper entitled [Conditional Contrastive Domain Generalization for Fault Diagnosis](/publication/CCDG/) has been accepted in **IEEE Transactions on Instrumentation and Measurement**.
+**[Jul-2020]**  [Finalist Paper Award at (ICPHM2020)](https://www.ntu.edu.sg/scse/news-events/news/detail/scse-phd-student-a-star-scholar-mohamed-ragab-finalist-paper-award-at-the-12th-ieee-international-conference-on-prognostics-and-health-management-(icphm2020)).
 
-**[Jan-2022]** Our paper entitled [DiagNet: Machine Fault Diagnosis Using Federated Transfer Learning in Low Data Regimes](https://federated-learning.org/fl-aaai-2022/) has been accepted in **FL-AAAI 2022**.
+**[June-2018]** [Singapore International Graduate Award](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa).
 
-**[Sep-2021]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in **Neurocomputing, Elsevier**.
+**[Dec-2017]**  Best Master's Thesis Award, Aswan University.
 
-**[Jun-2021]** Nominated to Participate in **the first trilateral Global Fellows Programme “AI and Healthcare”**, a partnership between NTU (Singapore), Imperial College London (UK), and TUM (Germany).
+**[July-2014]** Bachelor's Degree with The First-class Honours, Aswan University.
 
-**[May-2021]** Our paper entitled [Time-Series Representation Learning via Temporal and Contextual Contrasting](/publication/TS_TCC/) has been accepted in has been accepted in **International Joint Conference on Artificial Intelligence (IJCAI-21)**  
+**[Jan-2014]**  Exemplary Student Award, Aswan University 
 
-**[Apr-2021]** Our paper entitled [Contrastive Adversarial Knowledge Distillation for Deep Model Compression in Time-Series Regression Tasks](/publication/ATS2S/) has been accepted in **Neurocomputing, Elsevier**.
