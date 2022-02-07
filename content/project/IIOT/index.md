@@ -1,5 +1,5 @@
 ---
-title: Contrastive Learning for Time Series Domain Adaptation
+title: Industrial Internet of Things
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning

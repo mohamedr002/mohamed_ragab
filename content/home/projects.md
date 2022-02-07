@@ -29,11 +29,11 @@ content:
   - name: All
     tag: '*'
   - name: Contrastive Learning,
-    tag: '*'
+    tag: 'CLTS'
   - name: LLD
-    tag: '*'
+    tag: 'LLD'
   - name: XAI
-    tag: '*'
+    tag: 'XAI'
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
