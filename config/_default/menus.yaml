@@ -25,7 +25,7 @@ main:
     url: '#talks'
     weight: 40
   - name: Awards
-      url: '#/awards'
+      url: '/awards'
       weight: 40
   - name: Contact
     url: '#contact'
