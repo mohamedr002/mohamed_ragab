@@ -28,11 +28,11 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Contrastive Learning for Time Series Domain Adaptation,
+  - name: Contrastive Learning,
     tag: '*'
-  - name: Learning with Less Data
+  - name: LLD
     tag: '*'
-  - name: Explainable AI for Multimodal Predictive Maintenance of Jet Engines with Smart HCI
+  - name: XAI
     tag: '*'
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
