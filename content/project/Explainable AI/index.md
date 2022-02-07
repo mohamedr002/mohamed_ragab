@@ -20,6 +20,5 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-- Explainable approaches for multi-modal sensing
-- The application of Explainable AI into Machine Health Monitoring Applications 
+Explainable approaches for multi-modal sensing 
+The application of Explainable AI into Machine Health Monitoring Applications 
