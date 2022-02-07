@@ -28,7 +28,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Contrastive Learning,
+  - name: CLTS,
     tag: 'CLTS'
   - name: LLD
     tag: 'LLD'
