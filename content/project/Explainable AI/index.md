@@ -1,6 +1,6 @@
 ---
 title: Explainable AI for Multimodal Predictive Maintenance of Jet Engines with Smart HCI
-summary: An example of using the in-built project page.
+summary: 
 tags:
 - XAI
 date: "2016-04-27T00:00:00Z"
