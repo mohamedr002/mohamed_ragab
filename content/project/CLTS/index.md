@@ -1,6 +1,6 @@
 ---
 title: Contrastive Learning for Time Series Domain Adaptation
-summary: An example of using the in-built project page.
+summary: This projects targets leveraging contrastive learning to Address domain shift problem for time series data
 tags:
 - CLTS
 date: "2016-04-27T00:00:00Z"
