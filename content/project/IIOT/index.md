@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Contrastive Learning for Time Series Domain Adaptation
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
