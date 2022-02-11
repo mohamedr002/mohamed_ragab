@@ -17,7 +17,7 @@ featured: false
 projects:
   - example
 slides: example
-url_pdf: "https://arxiv.org/abs/2007.09868"
+url_pdf: ""
 summary: ""
 url_dataset: ""
 url_project: ""
