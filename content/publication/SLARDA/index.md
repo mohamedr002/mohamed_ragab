@@ -1,6 +1,5 @@
 ---
-title: Self-supervised Autoregressive Domain Adaptation for Time Series Data
-  (Under Review)
+title: Self-supervised Autoregressive Domain Adaptation for Time Series Data (Under Review)
 subtitle: IEEE Transactions on Neural Networks and Learning Systems
 publication_types:
   - "2"
