@@ -14,7 +14,10 @@ subtitle: "[All news>>](/news)"
 
 
 ---
-**[Feb-2021]** Our paper entitled [Conditional Contrastive Domain Generalization for Fault Diagnosis](/publication/CCDG/) has been accepted in **IEEE Transactions on Instrumentation and Measurement**.
+**[May-2022]** Started a joint position as **Scientist** at both [A\*STAR Center of Frontiers AI Research (CFAR)](a-star.edu.sg/cfar) and **Institute for Infocomm Research (I2R)** 
+
+
+**[Feb-2022]** Our paper entitled [Conditional Contrastive Domain Generalization for Fault Diagnosis](/publication/CCDG/) has been accepted in **IEEE Transactions on Instrumentation and Measurement**.
 
 **[Jan-2022]** Our paper entitled [DiagNet: Machine Fault Diagnosis Using Federated Transfer Learning in Low Data Regimes](https://federated-learning.org/fl-aaai-2022/) has been accepted in **FL-AAAI 2022**.
 
