@@ -1,6 +1,6 @@
 ---
 title: "Mohamed Ragab "
-role: PhD Student
+role: Scientist 
 avatar_filename: avatar.jpg
 bio: "My research interests include Transfer Learning, Domain Adaptation,
   Machine Condition Monitoring, "
@@ -27,7 +27,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mohamedragab1/
 organizations:
-  - name: "Nanyang Technological University "
+  - name: "Institute for Infocomm Research. A*STAR "
     url: https://www.ntu.edu.sg/
 education:
   courses:
