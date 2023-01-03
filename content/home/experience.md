@@ -57,7 +57,7 @@ experience:
     company_logo: astar
     location: Singapore
     date_start: '2018-08-01'
-    date_end: ''
+    date_end: '2022-05-01'
     description: |2-
         
         * Implement end-to-end data science pipeline from data collection to machine learning model deployment for predictive maintenance tasks such as Anomaly detection, Fault Diagnosis, and Fault Prognosis
