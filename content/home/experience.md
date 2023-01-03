@@ -21,7 +21,24 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+
+
 experience:
+
+  - title: Scientist I
+    company: Center for Frontier AI Research, A*STAR
+    company_url: ''
+    company_logo: astar
+    location: Singapore
+    date_start: '2022-06-01'
+    date_end: ''
+    description: |2-
+
+        * Privacy-preserving domain adaptation algorithms for time series data
+        * Continual and Sustainible AI for time series applications 
+        * Robustness and Uncertainty Quantification for time seris data. 
+
   - title: Machine Learning Intern
     company: ST Engineering Aerospace
     company_url: ''
