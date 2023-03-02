@@ -14,6 +14,14 @@ subtitle: "[All news>>](/news)"
 
 
 ---
+
+**[Feb-2023]** Our paper entitled [AdaTime: A Benchmarking Suite for Domain Adaptation on Time Series Data](https://arxiv.org/abs/2203.08321) has been accepted in **ACM Transactions on Knowledge Discovery from Data (TKDD)**.
+
+**[Feb-2023]** Our paper entitled [Self-supervised Learning for Label-Efficient Sleep Stage Classification: A Comprehensive Evaluation](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/document/10044720) has been accepted in **IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)**.
+
+**[Jan-2023]** Our paper entitled [Diverse and Consistent Multi-view Networks for Semi-supervised Regression](https://link.springer.com/article/10.1007/s10994-023-06305-0) has been accepted in **European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)**.
+
+
 **[July-2022]** Our paper entitled [ADAST: Attentive Cross-domain EEG-based Sleep Staging Framework with Iterative Self-Training](https://arxiv.org/abs/2107.04470) has been accepted in **IEEE Transactions on Emerging Topics in Computational Intelligence**.
 
 
