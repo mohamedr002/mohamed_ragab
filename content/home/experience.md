@@ -29,7 +29,7 @@ experience:
   - title: Scientist I
     company: Center for Frontier AI Research, A*STAR
     company_url: ''
-    company_logo: astar
+    company_logo: cfar
     location: Singapore
     date_start: '2022-06-01'
     date_end: ''
