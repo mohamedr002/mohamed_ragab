@@ -14,6 +14,13 @@ subtitle: "[All news>>](/news)"
 
 
 ---
+
+**[Feb-2023]** Our paper entitled [AdaTime: A Benchmarking Suite for Domain Adaptation on Time Series Data](https://arxiv.org/abs/2203.08321) has been accepted in **ACM Transactions on Knowledge Discovery from Data (TKDD)**.
+
+**[Feb-2023]** Our paper entitled [Self-supervised Learning for Label-Efficient Sleep Stage Classification: A Comprehensive Evaluation](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/document/10044720) has been accepted in **IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)**.
+
+**[Jan-2023]** Our paper entitled [Diverse and Consistent Multi-view Networks for Semi-supervised Regression](https://link.springer.com/article/10.1007/s10994-023-06305-0) has been accepted in **European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)**.
+
 **[July-2022]** Our paper entitled [ADAST: Attentive Cross-domain EEG-based Sleep Staging Framework with Iterative Self-Training](https://arxiv.org/abs/2107.04470) has been accepted in **IEEE Transactions on Emerging Topics in Computational Intelligence**.
 
 
@@ -27,11 +34,3 @@ subtitle: "[All news>>](/news)"
 **[Feb-2022]** Our paper entitled [Conditional Contrastive Domain Generalization for Fault Diagnosis](/publication/CCDG/) has been accepted in **IEEE Transactions on Instrumentation and Measurement**.
 
 **[Jan-2022]** Our paper entitled [DiagNet: Machine Fault Diagnosis Using Federated Transfer Learning in Low Data Regimes](https://federated-learning.org/fl-aaai-2022/) has been accepted in **FL-AAAI 2022**.
-
-**[Sep-2021]** Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in **Neurocomputing, Elsevier**.
-
-**[Jun-2021]** Nominated to Participate in **the first trilateral Global Fellows Programme “AI and Healthcare”**, a partnership between NTU (Singapore), Imperial College London (UK), and TUM (Germany).
-
-**[May-2021]** Our paper entitled [Time-Series Representation Learning via Temporal and Contextual Contrasting](/publication/TS_TCC/) has been accepted in has been accepted in **International Joint Conference on Artificial Intelligence (IJCAI-21)**  
-
-**[Apr-2021]** Our paper entitled [Contrastive Adversarial Knowledge Distillation for Deep Model Compression in Time-Series Regression Tasks](/publication/ATS2S/) has been accepted in **Neurocomputing, Elsevier**.
