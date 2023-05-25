@@ -14,6 +14,9 @@ subtitle: "[All news>>](/news)"
 
 
 ---
+**[May-2023]** Our paper entitled [Source-Free Domain Adaptation with Temporal Imputation for
+Time Series Data](https://openreview.net/pdf?id=v6GK0ijPW0B) has been accepted in **The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2023)**.
+
 
 **[Feb-2023]** Our paper entitled [AdaTime: A Benchmarking Suite for Domain Adaptation on Time Series Data](https://arxiv.org/abs/2203.08321) has been accepted in **ACM Transactions on Knowledge Discovery from Data (TKDD)**.
 
