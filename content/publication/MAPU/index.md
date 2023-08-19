@@ -1,6 +1,4 @@
 ---
-
-
 title: Source-Free Domain Adaptation with Temporal Imputation for
 Time Series Data
 subtitle: 
