@@ -2,7 +2,7 @@
 title: Source-Free Domain Adaptation with Temporal Imputation for Time Series Data
 subtitle: 
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Mohamed Ragab
   - Emadeldeen Eldele
