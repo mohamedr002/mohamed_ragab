@@ -15,7 +15,7 @@ abstract: ""
 draft: false
 featured: false
 projects:
-  - 
+  - ""
 slides: ""
 url_pdf: ""
 summary: ""
@@ -35,6 +35,6 @@ date: 2023-08-24T07:45:54.436Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/mohamedr002/MAPU_SFDA_TS"
 ---
 
