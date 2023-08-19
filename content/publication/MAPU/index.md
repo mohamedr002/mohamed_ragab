@@ -11,7 +11,6 @@ authors:
   - Chaun-Sheng Foo
   - Xiaoli Li
   - Zhenghua Chen
-
 publication_short: In KDD
 abstract: ""
 draft: false
@@ -39,9 +38,4 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
-{{% callout note %}}
-Click the *Code* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
 
