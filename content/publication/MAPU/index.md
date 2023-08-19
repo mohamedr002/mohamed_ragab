@@ -10,7 +10,7 @@ authors:
   - Chaun-Sheng Foo
   - Xiaoli Li
   - Zhenghua Chen
-publication_short: In KDD
+publication_short: 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2023).
 abstract: ""
 draft: false
 featured: false
