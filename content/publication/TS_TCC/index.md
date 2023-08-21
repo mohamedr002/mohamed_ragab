@@ -37,9 +37,8 @@ tags:
   - exampe
 categories:
   - example
-projects:
-  - example
-slides: example
+projects: []
+slides: ""
 Code: example
 image:
   filename: ts_tcc.png
