@@ -16,8 +16,7 @@ publication_short: ACM Transactions on Knowledge Discovery from Data (TKDD)
 abstract: ""
 draft: false
 featured: false
-projects:
-  - 
+projects: []
 slides: ""
 url_pdf: "https://arxiv.org/abs/2203.08321"
 summary: ""
