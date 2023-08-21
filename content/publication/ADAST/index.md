@@ -16,7 +16,7 @@ abstract: ""
 draft: false
 featured: false
 projects: 
-  - ""
+  - 
 slides: ""
 url_pdf: "https://arxiv.org/abs/2107.04470"
 summary: ""
