@@ -15,7 +15,8 @@ publication_short: IEEE Transactions on Emerging Topics in Computational Intelli
 abstract: ""
 draft: false
 featured: false
-projects: ""
+projects: 
+  - ""
 slides: ""
 url_pdf: "https://arxiv.org/abs/2107.04470"
 summary: ""
