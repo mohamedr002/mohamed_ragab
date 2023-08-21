@@ -15,8 +15,7 @@ publication_short: IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINE
 abstract: ""
 draft: false
 featured: false
-projects: 
-  - 
+projects: []
 slides: ""
 url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044720"
 summary: ""
