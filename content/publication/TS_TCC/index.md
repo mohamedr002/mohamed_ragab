@@ -38,6 +38,7 @@ tags:
 categories:
   - example
 projects: []
+url_code: "https://github.com/emadeldeen24/TS-TCC"
 slides: ""
 Code: example
 image:
@@ -47,16 +48,3 @@ image:
   caption: ""
 date: 2021-08-24T07:29:41.915Z
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Click the *code* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
