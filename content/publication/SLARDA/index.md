@@ -13,7 +13,7 @@ authors:
 publication_short: In IEEE TNNLS
 abstract: ""
 draft: false
-featured: true
+featured: false
 projects: []
 slides: ""
 url_pdf: ""
