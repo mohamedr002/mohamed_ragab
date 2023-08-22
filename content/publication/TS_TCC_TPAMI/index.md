@@ -14,7 +14,7 @@ authors:
 publication_short: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 
 abstract: ""
 draft: false
-featured: false
+featured: true
 projects: []
 slides: ""
 url_pdf: "https://arxiv.org/abs/2208.06616"
