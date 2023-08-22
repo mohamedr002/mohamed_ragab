@@ -14,8 +14,14 @@ subtitle: "[All news>>](/news)"
 
 
 ---
+**[Aug-2023]** Our paper entitled [Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification](https://arxiv.org/abs/2208.06616) has been accepted in **IEEE IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
+
+
+**[Jun-2023]** Our paper entitled [Contrastive Domain Adaptation for Time-Series via Temporal Mixup](https://arxiv.org/abs/2212.01555) has been accepted in **IEEE Transactions on Artificial Intelligence (TAI)**.
+
+
 **[May-2023]** Our paper entitled [Source-Free Domain Adaptation with Temporal Imputation for
-Time Series Data](https://openreview.net/pdf?id=v6GK0ijPW0B) has been accepted in **The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2023)**.
+Time Series Data](https://dl.acm.org/doi/abs/10.1145/3580305.3599507) has been accepted in **The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2023)**.
 
 
 **[Feb-2023]** Our paper entitled [AdaTime: A Benchmarking Suite for Domain Adaptation on Time Series Data](https://arxiv.org/abs/2203.08321) has been accepted in **ACM Transactions on Knowledge Discovery from Data (TKDD)**.
