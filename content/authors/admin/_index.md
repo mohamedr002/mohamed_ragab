@@ -46,7 +46,7 @@ highlight_name: false
 ---
 <!--StartFragment-->
 
-Mohamed Ragab is a research scientist at both Machine Intelleiction Department, I2R and Center for Fronetiers AI Research (CFAR), A*STAR.   He received his PhD in Computer Science and Engineering from Nanyang Technological University (NTU) in Singapore, where he focused on developing robust and transferable AI for dynamic predictive maintenance applications. His research interests include deep learning, transfer learning, and robustness for time series applications. Mohamed has a track record of publishing in top-tier conferences and journals. 
+ Mohamed Ragab is a research scientist at both the [Institute for Infocomm Research](https://www.a-star.edu.sg/i2r) and the [Center for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar), A*STAR. He earned his Ph.D. in Computer Science and Engineering from Nanyang Technological University (NTU), Singapore, in 2022, with a research emphasis on resilient and transferable AI solutions for dynamic predictive maintenance scenarios. His research interests include self-supervised learning, transfer learning, and robustness for time series applications.
 <!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}} CV {{< /staticref >}}.
