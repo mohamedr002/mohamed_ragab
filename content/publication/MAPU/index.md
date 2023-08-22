@@ -11,7 +11,7 @@ authors:
   - Xiaoli Li
   - Zhenghua Chen
 publication_short: Knowledge Discovery and Data Mining (KDD)
-abstract: "This work proposes a novel Time-Series semi-supervised representation learning framework, CA-TCC, that learns representations given few labeled data using contrastive learning. CA-TCC builds on top of our TS-TCC work by leveraging the robust pseudo labels from the fine-tuned TS-TCC model in a supervised contrastive loss."
+abstract: ""
 draft: false
 featured: false
 projects: []
@@ -27,8 +27,8 @@ doi: ""
 publication: Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 tags: []
 image:
-  caption: Adaptation with Temporal Imputation for time series data.
-  focal_point: Smart
+  caption: 
+  focal_point: 
   preview_only: false
 date: 2023-08-24T07:45:54.436Z
 url_slides: ""
