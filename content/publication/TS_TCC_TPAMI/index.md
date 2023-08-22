@@ -11,7 +11,7 @@ authors:
   - Chee-Keong Kwoh
   - Xiaoli Li
   - Cuntai Guan
-publication_short: In TPAMI
+publication_short: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 
 abstract: ""
 draft: false
 featured: false
@@ -29,7 +29,7 @@ publication: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPA
 tags: []
 image:
   caption: 
-  focal_point: Smart
+  focal_point: 
   preview_only: false
 date: 2023-08-24T07:45:54.436Z
 url_slides: ""
