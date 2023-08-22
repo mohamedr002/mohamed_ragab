@@ -13,10 +13,9 @@ publication_short: In Neurocomputing, Elsevier
 abstract: ""
 draft: false
 featured: false
-projects:
-  - example
-slides: example
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0925231221013801
+projects: []
+slides: ""
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0925231221013801"
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -34,7 +33,7 @@ date: 2022-01-24T07:45:54.436Z
 url_slides: ""
 publishDate: 2012-01-01T00:00:00.000Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/mohamedr002/Attention-based-Sequence-to-Sequence-for-RUL"
 ---
 
 {{% callout note %}}
