@@ -32,7 +32,7 @@ abstract: Learning decent representations from unlabeled time-series data with
   few-labeled data and transfer learning scenarios. The code is publicly
   available at this https URL
 draft: false
-featured: true
+featured: false
 tags:
   - exampe
 categories:
