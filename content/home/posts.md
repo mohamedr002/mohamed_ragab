@@ -12,7 +12,6 @@ weight: 20
 title: Recent News
 subtitle: "[All news>>](/news)"
 
-
 ---
 
 **[Apr-2024]** Our paper entitled [Universal Semi-Supervised Domain Adaptation by Mitigating Common-Class Bias](https://arxiv.org/abs/2403.11234) has been accepted in **Conference on Computer Vision and Pattern Recognition (CVPR)**.
