@@ -66,3 +66,8 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+# Allow Wowchemy to access WC_POST_CSS environment variable
+security:
+  funcs:
+    getenv: ['^HUGO_', '^CI$', '^WC_POST_CSS$']
