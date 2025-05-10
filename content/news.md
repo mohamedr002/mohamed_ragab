@@ -14,10 +14,7 @@ subtitle: "[All news>>](/news)"
 
 
 ---
-**[Jun-2023]** Our paper entitled [Contrastive Domain Adaptation for Time-Series via Temporal Mixup](https://arxiv.org/abs/2212.01555) has been accepted in **IEEE Transactions on Artificial Intelligence (TAI)**.
 
-
-**[Aug-2023]** Our paper entitled [Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification](https://arxiv.org/abs/2208.06616) has been accepted in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 
 
 **[Jun-2023]** Our paper entitled [Contrastive Domain Adaptation for Time-Series via Temporal Mixup](https://arxiv.org/abs/2212.01555) has been accepted in **IEEE Transactions on Artificial Intelligence (TAI)**.
