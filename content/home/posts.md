@@ -17,6 +17,7 @@ subtitle: "[All news>>](/news)"
 
 | Date      | News                                                                                                    |
 |-----------|--------------------------------------------------------------------------------------------------------|
+| May-2025  | Our paper entitled Boosting Time-series Domain Adaptation via A Time-Frequency Consensus Framework has been accepted. This work introduces a novel consensus-based strategy that integrates time- and frequency-domain representations to enhance robustness in domain adaptation for time-series tasks. |
 | Feb-2025  | Our paper entitled Evidential Domain Adaptation for Remaining Useful Life Prediction with Incomplete Degradation has been accepted in IEEE Transactions on Instrumentation and Measurement. This work introduces an evidential learning framework to handle incomplete degradation data during domain adaptation for RUL prediction. |
 | Jan-2025  | Our paper entitled EverAdapt: Continuous adaptation for dynamic machine fault diagnosis environments has been accepted in Mechanical Systems and Signal Processing. EverAdapt offers a novel framework for lifelong learning in fault diagnosis, continuously adapting to changes in operating conditions. |
 | Jan-2025  | Our paper entitled From Inconsistency to Unity: Benchmarking Deep Learning-Based Unsupervised Domain Adaptation for RUL has been accepted in IEEE Transactions on Automation Science and Engineering. It provides a unified benchmark and protocol for evaluating UDA methods in RUL prediction. |
