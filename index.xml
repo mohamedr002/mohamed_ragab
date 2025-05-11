@@ -50,6 +50,10 @@
 &lt;td>Jun-2024&lt;/td>
 &lt;td>Our survey paper &lt;a href="https://ieeexplore.ieee.org/document/10601520" target="_blank" rel="noopener">Label-Efficient Time Series Representation Learning: A Review&lt;/a> has been accepted in IEEE Transactions on Artificial Intelligence. It comprehensively reviews recent advances in SSL and semi-supervised methods for time series analysis.&lt;/td>
 &lt;/tr>
+&lt;tr>
+&lt;td>May-2024&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://dl.acm.org/doi/10.5555/3692070.3692564" target="_blank" rel="noopener">TSLANet: rethinking transformers for time series representation learning&lt;/a> has been accepted at &lt;strong>International Conference on Machine Learning (ICML)&lt;/strong>. This work introduces a novel transformer architecture specifically designed for time series representation learning.&lt;/td>
+&lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="2023">2023&lt;/h2>
