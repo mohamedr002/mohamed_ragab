@@ -32,6 +32,7 @@ subtitle: "[All news>>](/news)"
 | Oct-2024  | Our paper entitled [Overcoming Negative Transfer by Online Selection: Distant Domain Adaptation for Fault Diagnosis](https://ieeexplore.ieee.org/document/10707663) has been accepted in IEEE Transactions on Instrumentation and Measurement. It presents a novel online selection strategy to reduce negative transfer in distant domain scenarios. |
 | Jul-2024  | Our paper entitled [A Virtual-Label-Based Hierarchical Domain Adaptation Method for Time-Series Classification](https://ieeexplore.ieee.org/document/10654246) has been accepted in IEEE Transactions on Neural Networks and Learning Systems (TNNLS). The work introduces a hierarchical adaptation method using virtual labels to enhance classification performance. |
 | Jun-2024  | Our survey paper [Label-Efficient Time Series Representation Learning: A Review](https://ieeexplore.ieee.org/document/10601520) has been accepted in IEEE Transactions on Artificial Intelligence. It comprehensively reviews recent advances in SSL and semi-supervised methods for time series analysis. |
+| May-2024  | Our paper entitled [TSLANet: rethinking transformers for time series representation learning](https://dl.acm.org/doi/10.5555/3692070.3692564) has been accepted at **International Conference on Machine Learning (ICML)**. This work introduces a novel transformer architecture specifically designed for time series representation learning. |
 
 ## 2023
 
