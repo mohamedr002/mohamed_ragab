@@ -152,21 +152,76 @@
 &lt;td>Joined as PhD Student in Computer Science and Engineering at &lt;a href="https://www.ntu.edu.sg/" target="_blank" rel="noopener">Nanyang Technological University&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Awards</title><link>https://mohamedr002.github.io/mohamed_ragab/awards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mohamedr002.github.io/mohamed_ragab/awards/</guid><description>&lt;p>&lt;strong>[Feb-2021]&lt;/strong> Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/CCDG/">Conditional Contrastive Domain Generalization for Fault Diagnosis&lt;/a> has been accepted in &lt;strong>IEEE Transactions on Instrumentation and Measurement&lt;/strong>.&lt;/p>
-&lt;p>&lt;strong>[Jan-2022]&lt;/strong> Our paper entitled &lt;a href="https://federated-learning.org/fl-aaai-2022/" target="_blank" rel="noopener">DiagNet: Machine Fault Diagnosis Using Federated Transfer Learning in Low Data Regimes&lt;/a> has been accepted in &lt;strong>FL-AAAI 2022&lt;/strong>.&lt;/p>
-&lt;p>&lt;strong>[Sep-2021]&lt;/strong> Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/ATS2S/">Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction&lt;/a> has been accepted in &lt;strong>Neurocomputing, Elsevier&lt;/strong>.&lt;/p>
-&lt;p>&lt;strong>[Jun-2021]&lt;/strong> Nominated to Participate in &lt;strong>the first trilateral Global Fellows Programme “AI and Healthcare”&lt;/strong>, a partnership between NTU (Singapore), Imperial College London (UK), and TUM (Germany).&lt;/p>
-&lt;p>&lt;strong>[May-2021]&lt;/strong> Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/TS_TCC/">Time-Series Representation Learning via Temporal and Contextual Contrasting&lt;/a> has been accepted in has been accepted in &lt;strong>International Joint Conference on Artificial Intelligence (IJCAI-21)&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>[Apr-2021]&lt;/strong> Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/ATS2S/">Contrastive Adversarial Knowledge Distillation for Deep Model Compression in Time-Series Regression Tasks&lt;/a> has been accepted in &lt;strong>Neurocomputing, Elsevier&lt;/strong>.&lt;/p>
-&lt;p>&lt;strong>[Jan-2021]&lt;/strong> Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/DFDG/">Robust Domain-free Domain Generalization with Class-aware alignment&lt;/a> has been accepted in &lt;strong>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)&lt;/strong>.&lt;/p>
-&lt;p>&lt;strong>[Oct-2020]&lt;/strong> Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/CADA/">Contrastive Adversarial Domain Adaptation for Machine Remaining Useful Life Prediction&lt;/a> has been accepted in &lt;strong>IEEE Transactions on Industrial Informatics [IF:9.112]&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>[Sep-2020]&lt;/strong> Joined &lt;strong>ST Engineering Aerospace&lt;/strong> as a Machine Learning Intern.&lt;/p>
-&lt;p>&lt;strong>[Sep-2020]&lt;/strong> Joined &lt;strong>Egypt Scholars Inc&lt;/strong> as a volunteer member at labs and communities.&lt;/p>
-&lt;p>&lt;strong>[Sep-2020]&lt;/strong> Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/ATS2S/">Secure Transfer Learning for Machine Fault Diagnosis under Different Operating Condition&lt;/a> has been accepted in &lt;strong>International Conference on Provable and Practical Security (PROVSEC 2020)&lt;/strong>.&lt;/p>
-&lt;p>&lt;strong>[Jul-2020]&lt;/strong> Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/AMDA/">Adversarial Multiple-Target Domain Adaptation for Fault Classification&lt;/a> has been accepted in &lt;strong>International Conference on Provable and Practical Security (PROVSEC 2020)&lt;/strong>.&lt;/p>
-&lt;p>&lt;strong>[Jun-2020]&lt;/strong> Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/ADARUL/">Adversarial Transfer Learning for Machine Remaining Useful Life Prediction&lt;/a> has won, &lt;a href="https://ntu.edu.sg/scse/news-events/news/detail/scse-phd-student-a-star-scholar-mohamed-ragab-finalist-paper-award-at-the-12th-ieee-international-conference-on-prognostics-and-health-management-%28icphm2020%29" target="_blank" rel="noopener">Finalist Academic Paper Award&lt;/a> at &lt;strong>IEEE International Conference on Prognostics and Health Management (ICPHM) 2020&lt;/strong>.&lt;/p>
-&lt;p>&lt;strong>[Jan-2020]&lt;/strong> Successfully passed my PhD Qualifying Exam&lt;/p>
-&lt;p>&lt;strong>[Aug-2018]&lt;/strong> Joined as PhD Student in Computer Science and Engineering at &lt;a href="https://www.ntu.edu.sg/" target="_blank" rel="noopener">Nanyang Technological University&lt;/a>&lt;/p></description></item><item><title>Example Talk</title><link>https://mohamedr002.github.io/mohamed_ragab/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://mohamedr002.github.io/mohamed_ragab/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+&lt;/table></description></item><item><title>Awards</title><link>https://mohamedr002.github.io/mohamed_ragab/awards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mohamedr002.github.io/mohamed_ragab/awards/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Date&lt;/th>
+&lt;th>Award / Achievement&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Feb-2021&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/CCDG/">Conditional Contrastive Domain Generalization for Fault Diagnosis&lt;/a> has been accepted in &lt;strong>IEEE Transactions on Instrumentation and Measurement&lt;/strong>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jan-2022&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://federated-learning.org/fl-aaai-2022/" target="_blank" rel="noopener">DiagNet: Machine Fault Diagnosis Using Federated Transfer Learning in Low Data Regimes&lt;/a> has been accepted in &lt;strong>FL-AAAI 2022&lt;/strong>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sep-2021&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/ATS2S/">Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction&lt;/a> has been accepted in &lt;strong>Neurocomputing, Elsevier&lt;/strong>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jun-2021&lt;/td>
+&lt;td>Nominated to Participate in &lt;strong>the first trilateral Global Fellows Programme &amp;ldquo;AI and Healthcare&amp;rdquo;&lt;/strong>, a partnership between NTU (Singapore), Imperial College London (UK), and TUM (Germany).&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>May-2021&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/TS_TCC/">Time-Series Representation Learning via Temporal and Contextual Contrasting&lt;/a> has been accepted in &lt;strong>International Joint Conference on Artificial Intelligence (IJCAI-21)&lt;/strong>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Apr-2021&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/ATS2S/">Contrastive Adversarial Knowledge Distillation for Deep Model Compression in Time-Series Regression Tasks&lt;/a> has been accepted in &lt;strong>Neurocomputing, Elsevier&lt;/strong>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jan-2021&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/DFDG/">Robust Domain-free Domain Generalization with Class-aware alignment&lt;/a> has been accepted in &lt;strong>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)&lt;/strong>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Oct-2020&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/CADA/">Contrastive Adversarial Domain Adaptation for Machine Remaining Useful Life Prediction&lt;/a> has been accepted in &lt;strong>IEEE Transactions on Industrial Informatics [IF:9.112]&lt;/strong>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sep-2020&lt;/td>
+&lt;td>Joined &lt;strong>ST Engineering Aerospace&lt;/strong> as a Machine Learning Intern.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sep-2020&lt;/td>
+&lt;td>Joined &lt;strong>Egypt Scholars Inc&lt;/strong> as a volunteer member at labs and communities.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sep-2020&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/ATS2S/">Secure Transfer Learning for Machine Fault Diagnosis under Different Operating Condition&lt;/a> has been accepted in &lt;strong>International Conference on Provable and Practical Security (PROVSEC 2020)&lt;/strong>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jul-2020&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/AMDA/">Adversarial Multiple-Target Domain Adaptation for Fault Classification&lt;/a> has been accepted in &lt;strong>International Conference on Provable and Practical Security (PROVSEC 2020)&lt;/strong>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jun-2020&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://mohamedr002.github.io/mohamed_ragab/publication/ADARUL/">Adversarial Transfer Learning for Machine Remaining Useful Life Prediction&lt;/a> has won, &lt;a href="https://ntu.edu.sg/scse/news-events/news/detail/scse-phd-student-a-star-scholar-mohamed-ragab-finalist-paper-award-at-the-12th-ieee-international-conference-on-prognostics-and-health-management-%28icphm2020%29" target="_blank" rel="noopener">Finalist Academic Paper Award&lt;/a> at &lt;strong>IEEE International Conference on Prognostics and Health Management (ICPHM) 2020&lt;/strong>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jan-2020&lt;/td>
+&lt;td>Successfully passed my PhD Qualifying Exam.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Aug-2018&lt;/td>
+&lt;td>Joined as PhD Student in Computer Science and Engineering at &lt;a href="https://www.ntu.edu.sg/" target="_blank" rel="noopener">Nanyang Technological University&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Example Talk</title><link>https://mohamedr002.github.io/mohamed_ragab/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://mohamedr002.github.io/mohamed_ragab/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
