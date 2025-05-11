@@ -14,11 +14,6 @@ subtitle: "[All news>>](/news)"
 
 
 ---
-**[Aug-2024]** Our paper entitled [Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification](https://arxiv.org/abs/2208.06616) has been accepted in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
-
-**[Aug-2024]** Our paper entitled [Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification](https://arxiv.org/abs/2208.06616) has been accepted in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
-
-
 **[Aug-2023]** Our paper entitled [Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification](https://arxiv.org/abs/2208.06616) has been accepted in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 
 
