@@ -15,6 +15,23 @@ subtitle: "[All news>>](/news)"
 
 ---
 
+## 2025
+
+| Date      | News                                                                                                    |
+|-----------|--------------------------------------------------------------------------------------------------------|
+| Feb-2025  | Our paper entitled Evidential Domain Adaptation for Remaining Useful Life Prediction with Incomplete Degradation has been accepted in IEEE Transactions on Instrumentation and Measurement. This work introduces an evidential learning framework to handle incomplete degradation data during domain adaptation for RUL prediction. |
+| Jan-2025  | Our paper entitled EverAdapt: Continuous adaptation for dynamic machine fault diagnosis environments has been accepted in Mechanical Systems and Signal Processing. EverAdapt offers a novel framework for lifelong learning in fault diagnosis, continuously adapting to changes in operating conditions. |
+| Jan-2025  | Our paper entitled From Inconsistency to Unity: Benchmarking Deep Learning-Based Unsupervised Domain Adaptation for RUL has been accepted in IEEE Transactions on Automation Science and Engineering. It provides a unified benchmark and protocol for evaluating UDA methods in RUL prediction. |
+| Jan-2025  | Our paper entitled Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation has been published on arXiv. This method improves test-time adaptation by leveraging contrastive learning and prototype uncertainty for time series. |
+
+## 2024
+
+| Date      | News                                                                                                    |
+|-----------|--------------------------------------------------------------------------------------------------------|
+| Oct-2024  | Our paper entitled Overcoming Negative Transfer by Online Selection: Distant Domain Adaptation for Fault Diagnosis has been accepted in IEEE Transactions on Instrumentation and Measurement. It presents a novel online selection strategy to reduce negative transfer in distant domain scenarios. |
+| Jul-2024  | Our paper entitled A Virtual-Label-Based Hierarchical Domain Adaptation Method for Time-Series Classification has been accepted in IEEE Transactions on Neural Networks and Learning Systems (TNNLS). The work introduces a hierarchical adaptation method using virtual labels to enhance classification performance. |
+| Jun-2024  | Our survey paper Label-efficient time series representation learning: A review has been accepted in IEEE Transactions on Artificial Intelligence. It comprehensively reviews recent advances in SSL and semi-supervised methods for time series analysis. |
+
 ## 2023
 
 | Date      | News                                                                                                    |
