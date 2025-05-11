@@ -31,3 +31,8 @@ title: Awards
 | Jun-2020  | Our paper entitled [Adversarial Transfer Learning for Machine Remaining Useful Life Prediction](/publication/ADARUL/) has won, [Finalist Academic Paper Award](https://ntu.edu.sg/scse/news-events/news/detail/scse-phd-student-a-star-scholar-mohamed-ragab-finalist-paper-award-at-the-12th-ieee-international-conference-on-prognostics-and-health-management-(icphm2020)) at **IEEE International Conference on Prognostics and Health Management (ICPHM) 2020**. |
 | Jan-2020  | Successfully passed my PhD Qualifying Exam. |
 | Aug-2018  | Joined as PhD Student in Computer Science and Engineering at  [Nanyang Technological University](https://www.ntu.edu.sg/) |
+| Jul-2020  | [Finalist Paper Award at (ICPHM2020)](https://ntu.edu.sg/scse/news-events/news/detail/scse-phd-student-a-star-scholar-mohamed-ragab-finalist-paper-award-at-the-12th-ieee-international-conference-on-prognostics-and-health-management-(icphm2020)) |
+| Jun-2018  | [Singapore International Graduate Award](#) |
+| Dec-2017  | Best Master's Thesis Award, Aswan University. |
+| Jul-2014  | Bachelor's Degree with The First-class Honours, Aswan University. |
+| Jan-2014  | Exemplary Student Award, Aswan University |
