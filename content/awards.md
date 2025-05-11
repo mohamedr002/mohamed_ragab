@@ -15,6 +15,7 @@ title: Awards
 
 | Date      | Award / Achievement                                                                                                    |
 |-----------|------------------------------------------------------------------------------------------------------------------------|
+| Jan-2024  | Received the Competitive Career Development Fund (CDF) from A*STAR for the project titled [Label-Efficient and Resilient Federated Learning Approach for Time Series Applications](https://www.a-star.edu.sg/cfar/news/news/grant-awards/recipients-for-a-star-career-development-fund-(cdf)-2023#:~:text=The%20A*STAR%20Career%20Development,management%20experience%20and%20seed%20funding.) |
 | Feb-2021  | Our paper entitled [Conditional Contrastive Domain Generalization for Fault Diagnosis](/publication/CCDG/) has been accepted in **IEEE Transactions on Instrumentation and Measurement**. |
 | Jan-2022  | Our paper entitled [DiagNet: Machine Fault Diagnosis Using Federated Transfer Learning in Low Data Regimes](https://federated-learning.org/fl-aaai-2022/) has been accepted in **FL-AAAI 2022**. |
 | Sep-2021  | Our paper entitled [Attention-Based Sequence to Sequence Model for Machine Remaining Useful Life Prediction](/publication/ATS2S/) has been accepted in **Neurocomputing, Elsevier**. |
