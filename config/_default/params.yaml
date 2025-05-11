@@ -127,3 +127,6 @@ cms:
 icon:
   pack:
     ai: true
+
+custom_css:
+  - css/custom.css
