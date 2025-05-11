@@ -13,6 +13,8 @@ title: Awards
 
 
 ---
+**[Jan-2024]** Competitive Career Development Fund (CDF) from A*STAR for the project titled [Label-Efficient and Resilient Federated Learning Approach for Time Series Applications](https://www.a-star.edu.sg/cfar/news/news/grant-awards/recipients-for-a-star-career-development-fund-(cdf)-2023#:~:text=The%20A*STAR%20Career%20Development,management%20experience%20and%20seed%20funding.)
+
 **[Jul-2020]** [Finalist Paper Award at (ICPHM2020)](https://www.ntu.edu.sg/scse/news-events/news/detail/scse-phd-student-a-star-scholar-mohamed-ragab-finalist-paper-award-at-the-12th-ieee-international-conference-on-prognostics-and-health-management-(icphm2020)).
 
 **[Jun-2018]** [Singapore International Graduate Award](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa).
