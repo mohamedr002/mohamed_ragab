@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mohamed Ragab</title><link>https://mohamedr002.github.io/mohamed_ragab/</link><atom:link href="https://mohamedr002.github.io/mohamed_ragab/index.xml" rel="self" type="application/rss+xml"/><description>Mohamed Ragab</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://mohamedr002.github.io/mohamed_ragab/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Mohamed Ragab</title><link>https://mohamedr002.github.io/mohamed_ragab/</link></image><item><title>News</title><link>https://mohamedr002.github.io/mohamed_ragab/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mohamedr002.github.io/mohamed_ragab/news/</guid><description>&lt;h2 id="2023">2023&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mohamed Ragab</title><link>https://mohamedr002.github.io/mohamed_ragab/</link><atom:link href="https://mohamedr002.github.io/mohamed_ragab/index.xml" rel="self" type="application/rss+xml"/><description>Mohamed Ragab</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://mohamedr002.github.io/mohamed_ragab/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Mohamed Ragab</title><link>https://mohamedr002.github.io/mohamed_ragab/</link></image><item><title>News</title><link>https://mohamedr002.github.io/mohamed_ragab/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mohamedr002.github.io/mohamed_ragab/news/</guid><description>&lt;h2 id="2025">2025&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Date&lt;/th>
+&lt;th>News&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Feb-2025&lt;/td>
+&lt;td>Our paper entitled Evidential Domain Adaptation for Remaining Useful Life Prediction with Incomplete Degradation has been accepted in IEEE Transactions on Instrumentation and Measurement. This work introduces an evidential learning framework to handle incomplete degradation data during domain adaptation for RUL prediction.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jan-2025&lt;/td>
+&lt;td>Our paper entitled EverAdapt: Continuous adaptation for dynamic machine fault diagnosis environments has been accepted in Mechanical Systems and Signal Processing. EverAdapt offers a novel framework for lifelong learning in fault diagnosis, continuously adapting to changes in operating conditions.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jan-2025&lt;/td>
+&lt;td>Our paper entitled From Inconsistency to Unity: Benchmarking Deep Learning-Based Unsupervised Domain Adaptation for RUL has been accepted in IEEE Transactions on Automation Science and Engineering. It provides a unified benchmark and protocol for evaluating UDA methods in RUL prediction.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jan-2025&lt;/td>
+&lt;td>Our paper entitled Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation has been published on arXiv. This method improves test-time adaptation by leveraging contrastive learning and prototype uncertainty for time series.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="2024">2024&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Date&lt;/th>
+&lt;th>News&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Oct-2024&lt;/td>
+&lt;td>Our paper entitled Overcoming Negative Transfer by Online Selection: Distant Domain Adaptation for Fault Diagnosis has been accepted in IEEE Transactions on Instrumentation and Measurement. It presents a novel online selection strategy to reduce negative transfer in distant domain scenarios.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jul-2024&lt;/td>
+&lt;td>Our paper entitled A Virtual-Label-Based Hierarchical Domain Adaptation Method for Time-Series Classification has been accepted in IEEE Transactions on Neural Networks and Learning Systems (TNNLS). The work introduces a hierarchical adaptation method using virtual labels to enhance classification performance.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jun-2024&lt;/td>
+&lt;td>Our survey paper Label-efficient time series representation learning: A review has been accepted in IEEE Transactions on Artificial Intelligence. It comprehensively reviews recent advances in SSL and semi-supervised methods for time series analysis.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="2023">2023&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
