@@ -9,19 +9,19 @@
 &lt;tbody>
 &lt;tr>
 &lt;td>Feb-2025&lt;/td>
-&lt;td>Our paper entitled Evidential Domain Adaptation for Remaining Useful Life Prediction with Incomplete Degradation has been accepted in IEEE Transactions on Instrumentation and Measurement. This work introduces an evidential learning framework to handle incomplete degradation data during domain adaptation for RUL prediction.&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://ieeexplore.ieee.org/document/10930593" target="_blank" rel="noopener">Evidential Domain Adaptation for Remaining Useful Life Prediction with Incomplete Degradation&lt;/a> has been accepted in IEEE Transactions on Instrumentation and Measurement. This work introduces an evidential learning framework to handle incomplete degradation data during domain adaptation for RUL prediction.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Jan-2025&lt;/td>
-&lt;td>Our paper entitled EverAdapt: Continuous adaptation for dynamic machine fault diagnosis environments has been accepted in Mechanical Systems and Signal Processing. EverAdapt offers a novel framework for lifelong learning in fault diagnosis, continuously adapting to changes in operating conditions.&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327025000184" target="_blank" rel="noopener">EverAdapt: Continuous adaptation for dynamic machine fault diagnosis environments&lt;/a> has been accepted in Mechanical Systems and Signal Processing. EverAdapt offers a novel framework for lifelong learning in fault diagnosis, continuously adapting to changes in operating conditions.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Jan-2025&lt;/td>
-&lt;td>Our paper entitled From Inconsistency to Unity: Benchmarking Deep Learning-Based Unsupervised Domain Adaptation for RUL has been accepted in IEEE Transactions on Automation Science and Engineering. It provides a unified benchmark and protocol for evaluating UDA methods in RUL prediction.&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://ieeexplore.ieee.org/document/10839091" target="_blank" rel="noopener">From Inconsistency to Unity: Benchmarking Deep Learning-Based Unsupervised Domain Adaptation for RUL&lt;/a> has been accepted in IEEE Transactions on Automation Science and Engineering. It provides a unified benchmark and protocol for evaluating UDA methods in RUL prediction.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Jan-2025&lt;/td>
-&lt;td>Our paper entitled Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation has been published on arXiv. This method improves test-time adaptation by leveraging contrastive learning and prototype uncertainty for time series.&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://arxiv.org/abs/2501.01472" target="_blank" rel="noopener">Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation&lt;/a> has been accepted at KDD 2025. This method improves test-time adaptation by leveraging contrastive learning and prototype uncertainty for time series.&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -36,15 +36,15 @@
 &lt;tbody>
 &lt;tr>
 &lt;td>Oct-2024&lt;/td>
-&lt;td>Our paper entitled Overcoming Negative Transfer by Online Selection: Distant Domain Adaptation for Fault Diagnosis has been accepted in IEEE Transactions on Instrumentation and Measurement. It presents a novel online selection strategy to reduce negative transfer in distant domain scenarios.&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://ieeexplore.ieee.org/document/10707663" target="_blank" rel="noopener">Overcoming Negative Transfer by Online Selection: Distant Domain Adaptation for Fault Diagnosis&lt;/a> has been accepted in IEEE Transactions on Instrumentation and Measurement. It presents a novel online selection strategy to reduce negative transfer in distant domain scenarios.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Jul-2024&lt;/td>
-&lt;td>Our paper entitled A Virtual-Label-Based Hierarchical Domain Adaptation Method for Time-Series Classification has been accepted in IEEE Transactions on Neural Networks and Learning Systems (TNNLS). The work introduces a hierarchical adaptation method using virtual labels to enhance classification performance.&lt;/td>
+&lt;td>Our paper entitled &lt;a href="https://ieeexplore.ieee.org/document/10654246" target="_blank" rel="noopener">A Virtual-Label-Based Hierarchical Domain Adaptation Method for Time-Series Classification&lt;/a> has been accepted in IEEE Transactions on Neural Networks and Learning Systems (TNNLS). The work introduces a hierarchical adaptation method using virtual labels to enhance classification performance.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Jun-2024&lt;/td>
-&lt;td>Our survey paper Label-efficient time series representation learning: A review has been accepted in IEEE Transactions on Artificial Intelligence. It comprehensively reviews recent advances in SSL and semi-supervised methods for time series analysis.&lt;/td>
+&lt;td>Our survey paper &lt;a href="https://ieeexplore.ieee.org/document/10601520" target="_blank" rel="noopener">Label-Efficient Time Series Representation Learning: A Review&lt;/a> has been accepted in IEEE Transactions on Artificial Intelligence. It comprehensively reviews recent advances in SSL and semi-supervised methods for time series analysis.&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
