@@ -26,6 +26,17 @@ date_format: Jan 2006
 
 experience:
 
+  - title: Researcher
+    company: Propulsion and Space Research Center, Technology Innovation Institute
+    company_url: ''
+    company_logo: ''
+    location: United Arab Emirates
+    date_start: '2024-06-01'
+    date_end: ''
+    description: |2-
+        * Advanced AI for predictive maintenance of jet engines including anomaly detection, fault diagnostics, and RUL estimation
+        * Multimodal integration with Large Language Models for comprehensive engine health monitoring
+
   - title: Scientist I
     company: Center for Frontier AI Research, A*STAR
     company_url: ''
