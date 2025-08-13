@@ -1,60 +1,43 @@
 {{/* Experience widget */}}
-{{/* Hugo Blox Builder: https://github.com/wowchemy/wowchemy-hugo-modules */}}
+{{/* Wowchemy Blocks: https://github.com/wowchemy/wowchemy-hugo-modules */}}
 
-{{/* Initialise */}}
-{{ $st := .page }}
-{{ $columns := $st.design.columns | default "2" }}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
 
-<div class="col-12 {{if eq $columns "2"}}col-lg-8{{else}}col-lg-12{{end}}">
-  {{ with $st.content.title }}<h2 class="mb-4">{{ . | markdownify | emojify }}</h2>{{ end }}
-  {{ with $st.content.subtitle }}<p class="hero-lead">{{ . | markdownify | emojify }}</p>{{ end }}
+<div class="col-12 {{if $block.design.columns}}col-lg-{{$block.design.columns}}{{else}}col-lg-8{{end}}">
+  {{ with $block.content.title }}<h2 class="mb-4">{{ . | markdownify | emojify }}</h2>{{ end }}
+  {{ with $block.content.subtitle }}<p class="hero-lead">{{ . | markdownify | emojify }}</p>{{ end }}
 
-  {{ if $st.content.experience }}
+  {{ if $block.content.experience }}
   <div class="row experience">
-    {{ range $idx, $key := $st.content.experience }}
-    <div class="col-12 exp-item">
-      <div class="row">
-        <div class="col-auto exp-image">
-          {{ if $key.company_logo }}
-          <img src="{{ printf "media/icons/brands/%s.svg" $key.company_logo | relURL }}" alt="{{ $key.company }}" class="experience-logo">
-          {{ end }}
-        </div>
-        <div class="col exp-details">
-          <div class="row exp-title">
-            <div class="col-12">
-              <!-- Company First -->
-              {{ with $key.company }}
-              <h3 class="exp-company">{{ . | markdownify | emojify }}</h3>
-              {{ end }}
-              
-              <!-- Title Second -->
-              {{ with $key.title }}
-              <div class="exp-position text-muted">{{ . | markdownify | emojify }}</div>
-              {{ end }}
-            </div>
-          </div>
-          
-          <div class="row exp-meta">
-            <div class="col-12">
-              {{ with $key.location }}<div class="text-muted">{{ . }}</div>{{ end }}
-              {{ if $key.date_start }}
-              <div class="text-muted">
-                {{ (time $key.date_start).Format ($st.design.date_format | default "January 2006") }} –
-                {{ if $key.date_end }}{{ (time $key.date_end).Format ($st.design.date_format | default "January 2006") }}{{ else }}{{ i18n "present" | default "Present" }}{{ end }}
-              </div>
-              {{ end }}
-            </div>
-          </div>
-          
-          {{ with $key.description }}
-          <div class="row exp-desc">
-            <div class="col-12">
-              <div class="card-text">{{ . | markdownify | emojify }}</div>
-            </div>
-          </div>
-          {{ end }}
-        </div>
+    {{ range $idx, $key := $block.content.experience }}
+    <div class="col-12 col-lg-4 order-first">
+
+      {{ if $key.company_logo }}
+      <img src="{{ printf "media/icons/brands/%s.svg" $key.company_logo | relURL }}" alt="{{ $key.company }}" class="experience-logo">
+      {{ end }}
+
+      {{ with $key.location }}<div class="text-muted exp-meta">{{ . }}</div>{{ end }}
+      {{ if $key.date_start }}
+      <div class="text-muted exp-meta">
+        {{ (time $key.date_start).Format ($block.design.date_format | default "January 2006") }} –
+        {{ if $key.date_end }}{{ (time $key.date_end).Format ($block.design.date_format | default "January 2006") }}{{ else }}{{ i18n "present" | default "Present" }}{{ end }}
       </div>
+      {{ end }}
+
+    </div>
+    <div class="col-12 col-lg-8 order-last">
+
+      {{ with $key.company }}
+      <h3 class="exp-company text-muted my-0">{{ . | markdownify | emojify }}</h3>
+      {{ end }}
+
+      {{ with $key.title }}
+      <div class="exp-title text-muted my-0">{{ . | markdownify | emojify }}</div>
+      {{ end }}
+
+      {{ with $key.description }}<div class="exp-desc">{{ . | markdownify | emojify }}</div>{{ end }}
+
     </div>
     {{ end }}
   </div>
