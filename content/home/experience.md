@@ -26,7 +26,7 @@ date_format: Jan 2006
 
 experience:
 
-  - title: Propulsion and Space Research Center, Technology Innovation Institute 
+  - title: Propulsion and Space Research Center, Technology Innovation Institute
     company: Researcher
     company_url: ''
     company_logo: 'tii'
@@ -37,8 +37,8 @@ experience:
         * Advanced AI for predictive maintenance of jet engines including anomaly detection, fault diagnostics, and RUL estimation
         * Multimodal integration with Large Language Models for comprehensive engine health monitoring
 
-  - title: Scientist I
-    company: Center for Frontier AI Research, A*STAR
+  - title: Center for Frontier AI Research, A*STAR
+    company: Scientist I
     company_url: ''
     company_logo: cfar
     location: Singapore
@@ -50,8 +50,8 @@ experience:
         * Continual and Sustainible AI for time series applications 
         * Robustness and Uncertainty Quantification for time seris data. 
 
-  - title: Machine Learning Intern
-    company: ST Engineering Aerospace
+  - title: ST Engineering Aerospace
+    company: Machine Learning Intern
     company_url: ''
     company_logo: st
     location: Singapore
@@ -62,8 +62,8 @@ experience:
         * Anomaly detection using LSTM, CNN and Autoencoder techniques. I have provided an improved arsenal to tackle future component Predictive Maintenance projects.
         * In advance detection of failure of various air-crafts engines using automatic feature extraction.
 
-  - title: Research Scholar
-    company: Institute for Infocomm Research (I2R), A*STAR
+  - title: Institute for Infocomm Research (I2R), A*STAR
+    company: Research Scholar
     company_url: ''
     company_logo: astar
     location: Singapore
@@ -75,8 +75,8 @@ experience:
         * Design Advanced deep learning algorithms for time series data.
         * Develop Transfer Learning and Domain Adaptation techniques to address the challenges of real-world predictive maintenance.
         
-  - title: Assistant Lecturer
-    company: Aswan University
+  - title: Aswan University
+    company: Assistant Lecturer
     company_url: ''
     company_logo: aswan
     location: Singapore
@@ -88,8 +88,8 @@ experience:
         * Guide the development and training of the new graduate assistants
         * Lead, supervise, and plan undergraduate laboratory experience
 
-  - title: Teaching Assistant 
-    company: Aswan University
+  - title: Aswan University
+    company: Teaching Assistant 
     company_url: ''
     company_logo: aswan
     location: Singapore
