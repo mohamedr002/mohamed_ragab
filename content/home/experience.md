@@ -43,7 +43,7 @@ experience:
     company_logo: cfar
     location: Singapore
     date_start: '2022-06-01'
-    date_end: ''
+    date_end: '2024-05-30'
     description: |2-
 
         * Privacy-preserving domain adaptation algorithms for time series data
