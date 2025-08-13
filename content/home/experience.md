@@ -26,8 +26,8 @@ date_format: Jan 2006
 
 experience:
 
-  - title: Researcher
-    company: Propulsion and Space Research Center, Technology Innovation Institute
+  - title: Propulsion and Space Research Center, Technology Innovation Institute 
+    company: Researcher
     company_url: ''
     company_logo: 'tii'
     location: United Arab Emirates
