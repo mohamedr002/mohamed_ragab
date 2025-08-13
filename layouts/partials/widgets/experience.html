@@ -1,0 +1,45 @@
+{{/* Experience widget */}}
+{{/* Wowchemy Blocks: https://github.com/wowchemy/wowchemy-hugo-modules */}}
+
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+<div class="col-12 {{if $block.design.columns}}col-lg-{{$block.design.columns}}{{else}}col-lg-8{{end}}">
+  {{ with $block.content.title }}<h2 class="mb-4">{{ . | markdownify | emojify }}</h2>{{ end }}
+  {{ with $block.content.subtitle }}<p class="hero-lead">{{ . | markdownify | emojify }}</p>{{ end }}
+
+  {{ if $block.content.experience }}
+  <div class="row experience">
+    {{ range $idx, $key := $block.content.experience }}
+    <div class="col-12 col-lg-4 order-first">
+
+      {{ if $key.company_logo }}
+      <img src="{{ printf "media/icons/brands/%s.svg" $key.company_logo | relURL }}" alt="{{ $key.company }}" class="experience-logo">
+      {{ end }}
+
+      {{ with $key.location }}<div class="text-muted exp-meta">{{ . }}</div>{{ end }}
+      {{ if $key.date_start }}
+      <div class="text-muted exp-meta">
+        {{ (time $key.date_start).Format ($block.design.date_format | default "January 2006") }} –
+        {{ if $key.date_end }}{{ (time $key.date_end).Format ($block.design.date_format | default "January 2006") }}{{ else }}{{ i18n "present" | default "Present" }}{{ end }}
+      </div>
+      {{ end }}
+
+    </div>
+    <div class="col-12 col-lg-8 order-last">
+
+      {{ with $key.company }}
+      <h3 class="exp-company text-muted my-0">{{ . | markdownify | emojify }}</h3>
+      {{ end }}
+
+      {{ with $key.title }}
+      <div class="exp-title text-muted my-0">{{ . | markdownify | emojify }}</div>
+      {{ end }}
+
+      {{ with $key.description }}<div class="exp-desc">{{ . | markdownify | emojify }}</div>{{ end }}
+
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+</div> 
